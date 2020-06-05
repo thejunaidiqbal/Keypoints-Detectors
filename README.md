@@ -1,4 +1,4 @@
-# Keypoints-Detectors
+# Keypoints Detectors
 ## About Keypoints Detectors:
 What are features, detectors, and keypoints?
 Features in an image are unique regions that the computer can easily tell apart.
